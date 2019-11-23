@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422137881352",
+    "firebase_url": "https://fir-appceciliasousa.firebaseio.com",
+    "project_id": "fir-appceciliasousa",
+    "storage_bucket": "fir-appceciliasousa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422137881352:android:5f391bbbd8cd02f1d582bd",
+        "android_client_info": {
+          "package_name": "br.com.digitalhouse.firebaseapp.dh_firebase_cecisousa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422137881352-v0l7h6ncp6opr8ie9d7eno7juj0vvl6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCYl2TgjTxyDfuBi7piigP0Tv40ngTZ5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422137881352-v0l7h6ncp6opr8ie9d7eno7juj0vvl6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
